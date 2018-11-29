@@ -27,33 +27,33 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Photoshop
 * Adobe animate - 2D Animation
 
-## Education and training test11
+## Education and training test12
 
 <figure>
     <img src="../assets/img/UPC.png"></img>
-    <p>
+    <span>
     Bachelor of Science: Videogame Development and Engineering
     Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
     Terrassa
-    </p>   
+    </span>   
 </figure>
 
 <figure>
 	<a href="../assets/img/PIA.png"><img src="../assets/img/PIA.png"></a>
-    <p>
+    <span>
     High School Diploma: High School
     Escola Pia Nostra Senyora 2014
     Barcelona, Barcelona
-    </p>
+    </span>
 </figure>
 
 <figure>
 	<a href="../assets/img/YIS.png"><img src="../assets/img/YIS.png"></a>
-    <p>
+    <span>
     Middle School
     Yokohama International School 2009
     Yokohama, Tokyo
-    </p>
+    </span>
 </figure>
 
 
