@@ -2,7 +2,7 @@
 title:              Martí Majó Ylla-Català
 bio:                'I am a c++ videogame developer.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/MartiMajo.JPG'
 background:         'assets/img/placeholder-big.jpg'
@@ -20,13 +20,13 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-mathjax:            true
+mathjax:            false
 sass:
   sass_dir:         _sass
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
