@@ -1,0 +1,56 @@
+---
+layout: page
+title: About the Theme
+tags: [about, Jekyll, theme, moon]
+date: 2016-03-21
+comments: false
+---
+    
+<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+
+## Summary
+Videogame Development student in last year of degree, with excellent development and project management skills, committed to highest quality work and attracted by innovative approaches and technologies. Action-oriented with strong ability to communicate effectively with technology, executive, user, and business audiences.
+Versed in C++, C#, Python, GLSL and other programming as well as several gaming engines like Unity. Desires a challenging role as a programmer/developer to further improve.
+
+## Main Skills
+* C++
+* C#
+* Unity
+* Python
+* JavaScript
+
+## Other Competences
+* Scrum
+* MySQL
+* Data Analisys
+* Houdini - Post Production and FXs
+* 3D Studio Max - Modeling
+* Maya - Rigging, skining and animation
+* Photoshop
+* Adobe animate - 2D Animation
+
+## Education and training
+Bachelor of Science: Videogame Development and Engineering
+Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
+Terrassa
+High School Diploma: High School
+Escola Pia Nostra Senyora 2014
+Barcelona, Barcelona
+Middle School
+Yokohama International School 2009
+Yokohama, Tokyo
+
+
+{% capture images %}
+    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
+See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+## Getting Started
+
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+      
+[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
