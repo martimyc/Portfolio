@@ -31,9 +31,9 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 
 ## Education and training
 
-<figure class="third">
-	<a href="../assets/img/UPC.png"><img src="../assets/img/UPC.png" height="40" width="40"></a>
-</figure>
+#<figure class="third">
+#	<a href="../assets/img/UPC.png"><img src="../assets/img/UPC.png" height="40" width="40"></a>
+#</figure>
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/UPC.png" alt="" height="40" width="40">
@@ -57,3 +57,11 @@ Barcelona, Barcelona
 Middle School
 Yokohama International School 2009
 Yokohama, Tokyo
+
+## Languages
+* English - Proficient
+* Spanish - Native
+* Catalan - Native
+
+## Activities and honors
+* Kiokushinkai Karate
