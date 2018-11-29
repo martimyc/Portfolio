@@ -29,7 +29,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 
 ## Education and training test9
 
-<figure class="third">
+<figure>
 	<a href="../assets/img/UPC.png"><img src="../assets/img/UPC.png"></a>
     <p>
     Bachelor of Science: Videogame Development and Engineering
@@ -38,7 +38,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
     </p>
 </figure>
 
-<figure class="third">
+<figure>
 	<a href="../assets/img/PIA.png"><img src="../assets/img/PIA.png"></a>
     <p>
     High School Diploma: High School
@@ -47,7 +47,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
     </p>
 </figure>
 
-<figure class="third">
+<figure>
 	<a href="../assets/img/YIS.png"><img src="../assets/img/YIS.png"></a>
     <p>
     Middle School
