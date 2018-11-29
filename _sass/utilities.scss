@@ -2,12 +2,6 @@
    UTILITY CLASSES
    ========================================================================== */
 
-//utilities
-$usmall: 600px !default;
-$umedium: 768px !default;
-$umedium-wide: 900px !default;
-$ularge: 1024px !default;
-$ux-large: 1280px !default;
 
 /*
    Images
@@ -20,14 +14,14 @@ $ux-large: 1280px !default;
   margin-left: auto;
   margin-right: auto;
 
-  @include breakpoint(12px) {
+  @include breakpoint($small) {
     float: left;
     margin-right: 1em;
   }
 }
 
 /* image align right */
-/*
+
 .align-right {
   display: block;
   margin-left: auto;
@@ -38,13 +32,13 @@ $ux-large: 1280px !default;
     margin-left: 1em;
   }
 }
-    */
+    
 /* image align center */
-/*
+
 .align-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-*/
+
