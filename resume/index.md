@@ -27,17 +27,15 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Photoshop
 * Adobe animate - 2D Animation
 
-## Education and training test10
+## Education and training test11
 
 <figure>
-	<a href="../assets/img/UPC.png">
-        <img src="../assets/img/UPC.png">
-        <p>
-        Bachelor of Science: Videogame Development and Engineering
-        Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
-        Terrassa
-        </p>
-    </a>    
+    <img src="../assets/img/UPC.png"></img>
+    <p>
+    Bachelor of Science: Videogame Development and Engineering
+    Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
+    Terrassa
+    </p>   
 </figure>
 
 <figure>
