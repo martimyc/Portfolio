@@ -29,7 +29,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 
 ## Education and training
 
-The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+![image-left](../assets/img/UPC.png){: .align-left}The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
 
@@ -37,7 +37,7 @@ And now for a **massively large image**. It also has **no alignment**.
 
 <figure style="width: 60px" class="align-left">
   <img src="../assets/img/UPC.png" alt="">
-  <figcaption>test2</figcaption>
+  <figcaption>test4</figcaption>
 </figure>
 
 Bachelor of Science: Videogame Development and Engineering
