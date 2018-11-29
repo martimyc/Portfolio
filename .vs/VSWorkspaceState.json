@@ -6,8 +6,9 @@
     "\\_data",
     "\\_includes",
     "\\_layouts",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2013-05-22-sample-post-images.md",
+  "SelectedNode": "\\_sass\\_utilities.scss",
   "PreviewInSolutionExplorer": false
 }
