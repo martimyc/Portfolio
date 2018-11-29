@@ -31,7 +31,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 
 ## Education and training
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 40px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/UPC.png" alt="" height="40" width="40">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure>
