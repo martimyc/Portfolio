@@ -27,7 +27,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Photoshop
 * Adobe animate - 2D Animation
 
-## Education and training test7
+## Education and training test8
 
 ![image-left](../assets/img/UPC.png){: .align-left}The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
@@ -37,7 +37,7 @@ And now for a **massively large image**. It also has **no alignment**.
 
 <figure style="width: 80px" class="align-left">
   <img src="{../assets/img/UPC.png" alt="">
-  <figcaption>test7</figcaption>
+  <figcaption>test8</figcaption>
 </figure> 
 
 Bachelor of Science: Videogame Development and Engineering

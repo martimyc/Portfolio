@@ -20,14 +20,14 @@ $ux-large: 1280px !default;
   margin-left: auto;
   margin-right: auto;
 
-  @include breakpoint($usmall) {
+  @include breakpoint(12px) {
     float: left;
     margin-right: 1em;
   }
 }
 
 /* image align right */
-
+/*
 .align-right {
   display: block;
   margin-left: auto;
@@ -38,35 +38,13 @@ $ux-large: 1280px !default;
     margin-left: 1em;
   }
 }
-
+    */
 /* image align center */
-
+/*
 .align-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* file page content container */
-
-.full {
-  @include breakpoint($ularge) {
-    margin-right: -1 * span(2.5 of 12) !important;
-  }
-}
-
-/*
-   Icons
-   ========================================================================== */
-
-.icon {
-  display: inline-block;
-  fill: currentColor;
-  width: 1em;
-  height: 1.1em;
-  line-height: 1;
-  position: relative;
-  top: -0.1em;
-  vertical-align: middle;
-}
-
+*/
