@@ -5,8 +5,6 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Summary
 Videogame Development student in last year of degree, with excellent development and project management skills, committed to highest quality work and attracted by innovative approaches and technologies. Action-oriented with strong ability to communicate effectively with technology, executive, user, and business audiences.
@@ -37,8 +35,8 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a **massively large image**. It also has **no alignment**.
 
-<figure style="width: 40px" class="align-left">
-  <img src="../assets/img/UPC.png" alt="" height="40" width="40">
+<figure style="width: 60px" class="align-left">
+  <img src="../assets/img/UPC.png" alt="">
   <figcaption>test2</figcaption>
 </figure>
 
