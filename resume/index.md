@@ -35,6 +35,11 @@ As you can see the should be some space above, below, and to the right of the im
 
 And now for a **massively large image**. It also has **no alignment**.
 
+<figure style="width: 80px" class="align-left">
+  <img src="{../assets/img/UPC.png" alt="">
+  <figcaption>test7</figcaption>
+</figure> 
+
 Bachelor of Science: Videogame Development and Engineering
 Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
 Terrassa
