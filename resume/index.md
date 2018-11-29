@@ -32,22 +32,24 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 ## Education and training
 
 <figure class="third">
-	<a href="../assets/img/UPC.svg"><img src="../assets/img/UPC.svg"></a>
+	<a href="../assets/img/UPC.png"><img src="../assets/img/UPC.png" height="120" width="120"></a>
 </figure>
 
+<div>
 Bachelor of Science: Videogame Development and Engineering
 Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019
 Terrassa
+</div>
 
 <figure class="third">
-	<a href="../assets/img/PIA.jpg"><img src="../assets/img/PIA.jpg"></a>
+	<a href="../assets/img/PIA.jpg"><img src="../assets/img/PIA.jpg" height="120" width="69"></a>
 </figure>
 High School Diploma: High School
 Escola Pia Nostra Senyora 2014
 Barcelona, Barcelona
 
 <figure class="third">
-	<a href="../assets/img/YIS.jpeg"><img src="../assets/img/YIS.jpeg"></a>
+	<a href="../assets/img/YIS.jpeg"><img src="../assets/img/YIS.jpeg" height="120" width="120" ></a>
 </figure>
 Middle School
 Yokohama International School 2009
