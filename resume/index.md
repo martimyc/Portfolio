@@ -33,7 +33,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 
 <figure style="width: 40px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/UPC.png" alt="" height="40" width="40">
-  <figcaption>Itty-bitty caption.</figcaption>
+  <figcaption>test1.</figcaption>
 </figure>
 
 Bachelor of Science: Videogame Development and Engineering
