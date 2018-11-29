@@ -46,6 +46,7 @@ Terrassa
 
 <figure class="third">
 	<a href="../assets/img/PIA.jpg"><img src="../assets/img/PIA.jpg" height="40" width="23"></a>
+    <p>My first paragraph.</p>
 </figure>
 High School Diploma: High School
 Escola Pia Nostra Senyora 2014
