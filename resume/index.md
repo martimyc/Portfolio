@@ -27,7 +27,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Photoshop
 * Adobe animate - 2D Animation
 
-## Education and training test6
+## Education and training test7
 
 ![image-left](../assets/img/UPC.png){: .align-left}The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
