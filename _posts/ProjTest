@@ -1,9 +1,10 @@
 ---
-layout: project
-title: "Testing Readability with a Bunch of Text"
+layout: post
+title: "Test"
 date: 2012-05-22
 excerpt: "A ton of text to test readability."
 tags: [sample post, readability, test]
 comments: false
+project: true
 link: https://github.com/
 ---
