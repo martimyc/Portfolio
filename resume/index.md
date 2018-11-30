@@ -30,29 +30,29 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 ## Education and training test16
 
 <figure>
-    <p style="margin-left:2em; max-idth:100%; float:left; overflow:auto;">
+    <p style="max-idth:100%; float:left; overflow:auto;">
     <img src="../assets/img/UPC.png" alt="" style="width:80px; height:80px; float:left;">    
-    Bachelor of Science: Videogame Development and Engineering<br />
-    Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019<br />
-    Terrassa<br />
+      Bachelor of Science: Videogame Development and Engineering<br />
+      Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019<br />
+      Terrassa<br />
     </p>   
 </figure>
 
 <figure>
-    <p style="margin-left:2em; max-idth:100%; float:left; overflow:auto;">
+    <p style="max-idth:100%; float:left; overflow:auto;">
     <img src="../assets/img/PIA.png" alt="" style="width:80px; height:80px; float:left;">    
-    High School Diploma: High School<br />
-    Escola Pia Nostra Senyora 2014<br />
-    Barcelona, Barcelona<br />
+      High School Diploma: High School<br />
+      Escola Pia Nostra Senyora 2014<br />
+      Barcelona, Barcelona<br />
     </p>   
 </figure>
 
 <figure>
-    <p style="margin-left:2em; max-idth:100%; float:left; overflow:auto;">
+    <p style="max-idth:100%; float:left; overflow:auto;">
     <img src="../assets/img/YIS.png" alt="" style="width:80px; height:80px; float:left;">    
-    Middle School<br />
-    Yokohama International School 2009<br />
-    Yokohama, Tokyo<br />
+      Middle School<br />
+      Yokohama International School 2009<br />
+      Yokohama, Tokyo<br />
     </p>   
 </figure>
 
