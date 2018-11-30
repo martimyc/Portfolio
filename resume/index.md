@@ -32,11 +32,9 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 <figure>
     <p style="max-idth:100%; float:left; overflow:auto;">
     <img src="../assets/img/UPC.png" alt="" style="width:90px; height:80px; float:left;"> 
-    <pre>
       Bachelor of Science: Videogame Development and Engineering<br />
       Centre de la Imatge i Tecnologia Multimedia | CITM (UPC) - Terrassa 2019<br />
       Terrassa<br />
-     </pre>
     </p>   
 </figure>
 
