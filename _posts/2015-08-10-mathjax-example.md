@@ -1,53 +1,42 @@
 ---
 layout: post
-title:  "MathJax Example"
-date:   2015-08-10
-excerpt: "MathJax Example for Moon Jekyll Theme."
+title:  "Test"
+date:   2016-04-06
+excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+- jekyll 
+- moon
+- blog
+- about
+- theme
 comments: true
 ---
 
-[MathJax](http://www.mathjax.org/) is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics `\[ ... \]`, and the other for inline mathematics `\( ... \)`.
+hello test
 
-## Usage
+<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+     
+ I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
+<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+      
+## Installation
+* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
+* Edit `_config.yml` file.
+* Remove sample posts from `_posts` folder and add yours.
+* Edit `index.md` file in `about` folder.
+* Change repo name to `YourUserName.github.io`    
+     
+That's all.
 
-~~~
-markdown: kramdown
-mathjax: true
-~~~
+## Preview
 
-~~~
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-~~~
+{% capture images %}
+	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
+	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
-Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
-\\[ \frac{1}{n^{2}} \\]
-
-The only thing to look out for is the escaping of the backslash when using markdown, so the delimiters become `\\[ ... \\]` and `\\( ... \\)` for inline and block maths respectively.
-    
-
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
+---
