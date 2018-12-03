@@ -10,7 +10,6 @@ tag:
 - blog
 - about
 - theme
-comments: true
 ---
 
 hello test
