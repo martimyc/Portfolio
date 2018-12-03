@@ -27,7 +27,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Photoshop
 * Adobe animate - 2D Animation
 
-## Education and training test17
+## Education and training test18
 
 <figure>
     <p>
@@ -48,7 +48,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 </figure>
 
 <figure>
-    <p style="max-idth:100%; float:left; overflow:auto;">
+    <p>
     <img src="../assets/img/YIS.png" alt="" style="width:90px; height:80px; float:left;">
       Middle School<br />
       Yokohama International School 2009<br />
