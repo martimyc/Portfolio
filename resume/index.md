@@ -26,6 +26,8 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Maya - Rigging, skining and animation
 * Photoshop
 * Adobe animate - 2D Animation
+* Human Centered Design
+* Gamification
 
 ## Education and training test18
 
