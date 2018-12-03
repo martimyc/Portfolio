@@ -39,9 +39,9 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 </figure>
 
 <figure>
-    <p style="max-idth:100%; float:left; overflow:auto;">
+    <p>
     <img src="../assets/img/PIA.png" alt="" style="width:90px; height:80px; float:left;">
-      High School Diploma: High School<br />
+      High School<br />
       Escola Pia Nostra Senyora 2014<br />
       Barcelona, Barcelona<br />
     </p>   
