@@ -8,4 +8,4 @@ link: https://github.com/martimyc/Portfolio
 image: "../assets/img/UPC.png"
 ---
 
-https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966
+<!--https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966-->
