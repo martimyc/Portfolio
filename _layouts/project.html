@@ -25,8 +25,27 @@ layout: compress
                     {% for post in site.posts %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <img src= {{ post.image }} alt="" style="width:180px; height:180px; float:left;">
+                            <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
                             <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
+                            <p>{{ post.language }}</p>
+                            <p>{{ post.excerpt }}</p>
+                            <p>{{ post.excerpt }}</p>
+                            <a href="{{ post.link }}" class="btn zoombtn">Read More</a>
+                        </li>
+                    </ul>
+                    {% endfor %}
+                </div>
+                <div class="post-title">
+                    <h1>Game Jams</h1>
+                </div>
+                <div class="post-list">
+                    {% for post in site.posts %}
+                    <ul>
+                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+                            <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
+                            <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
+                            <p>{{ post.language }}</p>
+                            <p>{{ post.excerpt }}</p>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ post.link }}" class="btn zoombtn">Read More</a>
                         </li>
