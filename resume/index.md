@@ -28,6 +28,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Adobe animate - 2D Animation
 * Human Centered Design
 * Gamification
+* Wwise
 
 ## Education and Training
 
