@@ -29,7 +29,7 @@ layout: compress
                             <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
                             <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
                             <p>
-                                {{ post.date }}<br />
+                                <time>{{ post.date }}</time><br />
                                 {{ post.position }}<br />
                                 {{ post.language }}<br />
                                 {{ post.excerpt }}
@@ -51,7 +51,7 @@ layout: compress
                             <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
                             <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
                             <p>
-                                {{ post.date }}<br />
+                                <time>{{ post.date }}</time><br />
                                 {{ post.language }}<br />
                                 {{ post.jam }}<br />
                                 {{ post.excerpt }}
