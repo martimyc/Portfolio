@@ -23,6 +23,7 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %}
+                    {% if !{{ post.gamejam }} %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
@@ -33,6 +34,7 @@ layout: compress
                             <a href="{{ post.link }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
+                    {% endif %}
                     {% endfor %}
                 </div>
                 <div class="post-title">
@@ -40,6 +42,7 @@ layout: compress
                 </div>
                 <div class="post-list">
                     {% for post in site.posts %}
+                    {% if {{ post.gamejam }} %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left;">
@@ -50,6 +53,7 @@ layout: compress
                             <a href="{{ post.link }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
+                    {% endif %}
                     {% endfor %}
                 </div>
             </div>
