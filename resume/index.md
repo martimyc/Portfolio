@@ -29,7 +29,7 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 * Human Centered Design
 * Gamification
 
-## Education and training test18
+## Education and Training
 
 <figure>
     <p>

@@ -1,17 +1,9 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Test"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
-project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+excerpt: "Go to github to test."
 comments: false
 link: https://github.com/martimyc/Portfolio
+image: "../assets/img/UPC.png"
 ---
-
-This is sparta
