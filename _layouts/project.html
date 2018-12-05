@@ -51,9 +51,9 @@ layout: compress
                             <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left; padding:0px 10px 0px 0px">
                             <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
                             <p>
-                                <time>{{ post.date }}</time><br />
-                                {{ post.language }}<br />
+                                <time datetime="{{ post.date }}">{{ post.longdate }}</time><br />
                                 {{ post.jam }}<br />
+                                {{ post.language }}<br />
                                 {{ post.excerpt }}
                             </p>
                             <a href="{{ post.link }}" class="btn zoombtn">Read More</a>

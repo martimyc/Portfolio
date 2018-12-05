@@ -7,5 +7,6 @@ excerpt: "Puzzle game about light reflecting on crystals"
 comments: false
 link: https://globalgamejam.org/2018/games/turn-it
 image: "../assets/img/GGJ.png"
+language: "Unity"
 gamejam: true
 ---
