@@ -27,7 +27,7 @@ layout: compress
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a><br />
-                            <img src={{ post.image }} alt="" style="width:180px; height:220px; float:left; padding:0px 10px 0px 0px">
+                            <img src={{ post.image }} alt="" style="width:{{ post.image_w }}; height:220px; float:left; padding:0px 10px 0px 0px">
                             <p class="small" style="margin-top:-8px";>
                                 <time datetime="{{ post.date }}">{{ post.longdate }}</time><br />
                                 {{ post.position }}<br />
