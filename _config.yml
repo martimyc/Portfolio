@@ -4,7 +4,7 @@ bio:                'I am a c++ videogame developer, someone passionate about ga
 description:        "+34 616-724-735\n+34 932-216-613\nmartimyc@gmail.com\nC/ Taulat 7A, 3r 2a, Barcelona, 08005"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/MartiMajo_Web.jpg'
+logo:               'assets/img/icon.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
