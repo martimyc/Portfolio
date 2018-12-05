@@ -8,7 +8,6 @@ link: https://github.com/martimyc/Engine
 language: "C++"
 position: "Programmer"
 image: "../assets/img/MARsEngine.gif"
-image_w: 250px
 ---
 
 <!--https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966-->

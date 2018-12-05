@@ -8,7 +8,6 @@ link: https://github.com/marclafr/Digital-Wolves-Games
 image: "../assets/img/AoE.gif"
 language: "C++"
 position: "Management & Programmer"
-image_w: 220px
 ---
 
 <!--https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966-->
