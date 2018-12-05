@@ -48,8 +48,8 @@ layout: compress
                     {% if post.gamejam %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <img src={{ post.image }} alt="" style="width:180px; height:180px; float:left; padding:0px 10px 0px 0px">
-                            <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a>
+                            <a class="zoombtn" href="{{ post.link }}">{{ post.title }}</a><br />
+                            <img src={{ post.image }} alt="" style="float:left; padding:0px 10px 0px 0px">
                             <p>
                                 <time datetime="{{ post.date }}">{{ post.longdate }}</time><br />
                                 {{ post.jam }}<br />
