@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Unthrone"
-date:   2018-06-07
-longdate: "June 7th 2018"
-excerpt: "Unthrone is an accesible dungeon crawler based on the series Game Of Thrones made by 33 students at CITM"
-link: https://project3citm.github.io/CulverinEngine-Project3/member_MartiMajo.html
-image: "../assets/img/MartíMajó_SidewaysWalk.gif"
+title:  "Age of Empires: Defenders"
+date:   2017-06-07
+longdate: "June 7th 2017"
+excerpt: "Age of Empires: Defenders is a tower defense game made with assets from Age of empires by five students"
+link: https://github.com/marclafr/Digital-Wolves-Games
+image: "../assets/img/AoE.gif"
 language: "C++"
-position: "Skining & AI Programmer"
+position: "Management & Programmer"
 ---
 
 <!--https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966-->
