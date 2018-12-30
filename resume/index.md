@@ -20,6 +20,8 @@ Versed in C++, C#, Python, GLSL and other programming as well as several gaming 
 ## Other Competences
 * Scrum
 * MySQL
+* Tableau
+* BigML
 * Data Analisys
 * Houdini - Post Production and FXs
 * 3D Studio Max - Modeling
